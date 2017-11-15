@@ -1,0 +1,65 @@
+
+
+body {
+    display: block;
+    margin: 100px;
+    text-align: center;
+    vertical-align: 50%;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    font-style: italic;
+    font-size: 2.5em; /* 40px/16=2.5em */
+    text-align: center;
+    color: DarkSlateBlue;
+}
+
+h2 {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  color: dimgray;
+}
+
+
+h3 {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  color: dimgray;
+}
+
+form {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  color: dimgray;
+}
+button {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+/*.yellow{
+  background-image: url("https://i.ytimg.com/vi/ZcfSaKeuPWc/maxresdefault.jpg");
+}*/
+
+/*div {border-style: solid;
+    color: dimgray;
+    border-width: double;
+}*/
+/*div {
+    padding-top: 200px;
+}*/
+/*.center {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}*/

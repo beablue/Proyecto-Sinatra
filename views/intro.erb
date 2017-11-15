@@ -1,0 +1,25 @@
+<header>
+  <hgroup>
+    <h1>GENERA TUS INVITACIONES A EVENTOS AQUÍ</h1>
+  </hgroup>
+</header>
+
+<section id="add">
+  <form method="get" action=/invitacion>
+    <p>Nombre evento <input type="text" name="nombreevento"></p>
+    <p>Persona responsable<input type="text" name="personaresponsable"></p>
+    <p>Información general <input type="text" name="informaciongeneral"></p>
+    <p>¿Dónde? <input type="place" name="donde"></p>
+    <p>¿Cuándo?<input type="date" name="cuando"></p>
+    <p>Plantilla a usar
+      <select name="template">
+        <option value="Grises" selected>Tonos grises</option>
+        <option value="Verdes">Tonos verdes</option>
+        <option value="Amarillos">Tonos amarillos</option>
+      </select>
+    </p>
+
+    <button name="submit"> <strong>Generar invitación</strong></button>
+    <p></p>
+  </form>
+</section>
