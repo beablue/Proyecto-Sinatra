@@ -1,1 +1,1 @@
-web: bundle exec basicWeb -C config/basicWeb.rb
+web: bundle exec basicWeb
